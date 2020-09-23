@@ -8,7 +8,7 @@ This small project consists of calculating Euclidian & Manhattan Distance metric
 | A scatter plot of the Euclidian Distance calculation centered on (5,5) matrix. |
 | ![x](reports/figures/Manhattan.png) |
 | A scatter plot of the Manhattan Distance calculation centered on (3,3) matrix. |
-| ![x](reports/figures/Euclidian_Manhattan_4-4) |
+| ![x](reports/figures/Euclidian_Manhattan_4-4.png) |
 | A histogram comparing the Euclidian & Manhattan Distance calculations centered on (4,4) matrix. |
 
 Data Science Folder Structure/Project Organization:
